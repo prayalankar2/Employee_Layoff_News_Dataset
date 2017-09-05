@@ -1,0 +1,5 @@
+
+Technology whizzes who helped Goldman Sachs eliminate hundreds of trading jobs over the past few years are venturing into the bank's flagship M&A business, making some junior bankers uneasy.
+A team of 75 programmers, internally referred to as "strats," has been developing technology to make Goldman's elite dealmakers more productive. That team within investment banking has doubled in size since 2014, when long time tech banker George Lee was appointed chief information officer for the investment banking division.
+Programmers are now supporting those handling equity underwriting, leveraged buyouts and deals within the financial services and real estate sectors. They are also analyzing client data to offer better advice on deal targets and types of actions that might please a particular company's investor base.
+
