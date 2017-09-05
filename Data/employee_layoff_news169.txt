@@ -1,0 +1,19 @@
+) - PayPal Holdings Inc raised its earnings outlook on Wednesday after reporting higher-than-expected quarterly profit resulting from an increase in payment processing volumes and user growth.
+The company raised its full-year profit forecast to $1.28-$1.33 per share from $1.26-$1.31, and said its board authorized a $5 billion share buyback program.
+
+Revenue rose 17 percent to $2.98 billion, beating analysts' average estimate of $2.94 billion.
+Chief Financial Officer John Rainey said the company was planning some staff cuts and other restructuring initiatives which will slash $75 million in annual costs.
+"Less than 3 percent of our global workforce will be affected and based on current plans, we do not expect a net decrease in headcount for the year," Rainey said.
+PayPal's shares jumped 6 percent to $47.08 in after-hours trading.
+Chief Executive Dan Schulman said the company had added 6 million new active accounts in the first quarter, the largest quarterly user increase in the past 3 years.
+"We're changing the way we're operating as a company," Schulman said. "We're beginning to see the results of what we're capable of here."
+The San Jose, California-based company has been expanding partnerships and acquiring new services to gain advantage over rivals in a highly competitive digital payments market.
+Last week it struck a deal with Alphabet Inc's Google in a move to bring its payment wallet to brick-and-mortar stores.
+Consumers will be able to use their PayPal accounts with Google's mobile payments platform Android Pay at retailers such as WalGreens Boots and Dunkin' Donuts.
+PayPal, which spun off from e-commerce firm eBay Inc in 2015, also agreed to buy Canadian bill payment processor TIO Networks Corp for about $233 million in February.
+Rainey said growth in revenue had been driven by an increase in payments processing volumes in both its core business and other services such payments platform provider BrainTree.
+PayPal's total payments volume jumped 22.5 percent to $99.33 billion, beating research firm FactSet StreetAccount's estimate of $99.20 billion.
+Mobile payments volume rose 51 percent to about $32 billion in the quarter. Payment volumes at Venmo, its mobile peer-to-peer payment platform popular with younger customers, more than doubled to $6.8 billion in the first quarter.
+"Growth in our Venmo and our core P2P platforms ... supports higher levels of engagement and reduced levels of churn across our consumer base," Rainey said.
+The company's net income rose to $384 million, or 32 cents per share, in the first quarter, from $365 million, or 30 cents per share, a year earlier.
+On an adjusted basis, PayPal earned 44 cents per share, above the average analyst estimate of 41 cents, according to Thomson 
